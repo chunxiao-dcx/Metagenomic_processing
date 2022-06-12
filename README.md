@@ -3,7 +3,7 @@ This pipeline was used for raw sequence quailty control, metagenome assembly, ge
 This pipeline was described in the following publication: Metagenomic analysis reveals indole signaling effect on bacteria community in activated sludge: quorum sensing inhibition and antibiotic resistance enrichment
 The raw metagenome reads are available in the Genome Sequence Archive (GSA) under the BioProject CRP003644.
 mail: 2446378845@qq.com
-##Software
+# Software
 Software used in this pipeline:
 
 These software could be installed by conda.
